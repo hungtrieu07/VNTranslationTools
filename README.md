@@ -1,5 +1,5 @@
 # VNTextPatch
-[![Try so hard](https://i.kym-cdn.com/entries/icons/original/000/046/068/random_bs_go.jpg)]
+![Try so hard](https://i.kym-cdn.com/entries/icons/original/000/046/068/random_bs_go.jpg)
 A tool for extracting original text from, and patching translated text into, a variety of visual novel formats. Currently the following engines are supported:
 
 | Engine                               | Extension(s)   | Remarks                                                                        |
