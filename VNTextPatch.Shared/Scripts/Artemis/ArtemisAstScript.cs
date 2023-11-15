@@ -139,7 +139,7 @@ namespace VNTextPatch.Shared.Scripts.Artemis
                                            .Select(a => a.Value)
                                            .OfType<LuaTable>())
             {
-                LuaTable select = (block["select"] as LuaTable)?["ja"] as LuaTable;
+                LuaTable select = (block["select"] as LuaTable)?["en"] as LuaTable;
                 if (select != null)
                 {
                     foreach (LuaString choice in select.OfType<LuaString>())
@@ -148,7 +148,7 @@ namespace VNTextPatch.Shared.Scripts.Artemis
                     }
                 }
 
-                LuaTable text = (block["text"] as LuaTable)?["ja"] as LuaTable;
+                LuaTable text = (block["text"] as LuaTable)?["en"] as LuaTable;
                 if (text != null && text.Count == 1)
                 {
                     LuaTable message = text[0] as LuaTable;

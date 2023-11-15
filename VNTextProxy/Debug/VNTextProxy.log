@@ -1,0 +1,101 @@
+﻿  pch.cpp
+  CompilerHelper.cpp
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\CompilerSpecific\CompilerHelper.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/CompilerSpecific/CompilerHelper.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Util\StringUtil.h(14,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/CompilerSpecific/CompilerHelper.cpp')
+  C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Util\StringUtil.h(14,22):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\CompilerSpecific\CompilerHelper.cpp(45,48):
+  	see reference to function template instantiation 'std::vector<std::string,std::allocator<std::string>> StringUtil::Split<char>(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &,const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)' being compiled
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Util\StringUtil.h(30,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/CompilerSpecific/CompilerHelper.cpp')
+  C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Util\StringUtil.h(30,27):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\CompilerSpecific\CompilerHelper.cpp(47,51):
+  	see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> StringUtil::Join<char>(const std::vector<std::string,std::allocator<std::string>> &,const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)' being compiled
+  
+  D2DProportionalizer.cpp
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\D2DProportionalizer.cpp(135,17): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  (compiling source file '/D2DProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\D2DProportionalizer.cpp(136,16): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  (compiling source file '/D2DProportionalizer.cpp')
+  
+  dllmain.cpp
+  GdiProportionalizer.cpp
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(115,25): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(116,28): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(117,28): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(118,26): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(119,31): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(120,32): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(121,26): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\GdiProportionalizer.cpp(122,33): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  (compiling source file '/GdiProportionalizer.cpp')
+  
+  ImportHooker.cpp
+  LocaleEmulator.cpp
+  BabelPatch.cpp
+  EnginePatches.cpp
+  PE.cpp
+  Proxy.cpp
+  Font.cpp
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Font.cpp(88,18): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+  (compiling source file '/Font.cpp')
+  
+  FontManager.cpp
+  Proportionalizer.cpp
+  SjisTunnelEncoding.cpp
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\SjisTunnelEncoding.cpp(112,41): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/SjisTunnelEncoding.cpp')
+  
+  ImeListener.cpp
+  SubtitleDocument.cpp
+  SubtitleLine.cpp
+  SubtitleRenderer.cpp
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Subtitles\SubtitleRenderer.cpp(59,14): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Subtitles/SubtitleRenderer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Subtitles\SubtitleRenderer.cpp(61,19): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Subtitles/SubtitleRenderer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Subtitles\SubtitleRenderer.cpp(63,19): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Subtitles/SubtitleRenderer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Subtitles\SubtitleRenderer.cpp(91,14): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file '/Subtitles/SubtitleRenderer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Subtitles\SubtitleRenderer.cpp(98,31): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/Subtitles/SubtitleRenderer.cpp')
+  
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextProxy\Subtitles\SubtitleRenderer.cpp(98,103): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file '/Subtitles/SubtitleRenderer.cpp')
+  
+  MemoryUnprotector.cpp
+  MemoryUtil.cpp
+  Generating Code...
+  Compiling...
+  Path.cpp
+  StringUtil.cpp
+  Win32AToWAdapter.cpp
+  Generating Code...
+     Creating library C:\Users\hungt\Downloads\VNTranslationTools\Debug\d2d1.lib and object C:\Users\hungt\Downloads\VNTranslationTools\Debug\d2d1.exp
+d2d1.exp : warning LNK4070: /OUT:xinput1_3.dll directive in .EXP differs from output filename 'C:\Users\hungt\Downloads\VNTranslationTools\Debug\d2d1.dll'; ignoring directive
+  VNTextProxy.vcxproj -> C:\Users\hungt\Downloads\VNTranslationTools\Debug\d2d1.dll

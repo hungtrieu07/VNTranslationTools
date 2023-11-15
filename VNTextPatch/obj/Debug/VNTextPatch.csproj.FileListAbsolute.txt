@@ -1,0 +1,13 @@
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\FreeMote.LICENSE.txt
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\names.xml
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\template.xlsx
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\VNTextPatch.exe.config
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\VNTextPatch.exe
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\VNTextPatch.pdb
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch\obj\Debug\VNTextPatch.csproj.AssemblyReference.cache
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch\obj\Debug\VNTextPatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch\obj\Debug\VNTextPatch.exe.config
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch\obj\Debug\VNTextPatch.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch\obj\Debug\VNTextPatch.csproj.CopyComplete
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch\obj\Debug\VNTextPatch.exe
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch\obj\Debug\VNTextPatch.pdb

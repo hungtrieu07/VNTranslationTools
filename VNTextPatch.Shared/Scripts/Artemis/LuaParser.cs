@@ -182,14 +182,25 @@ namespace VNTextPatch.Shared.Scripts.Artemis
                 if (item == null)
                     throw new InvalidDataException("Incomplete table encountered");
 
-                table.Add(item);
+                if (item is LuaAttribute attribute && attribute.Name == "line" && int.TryParse(attribute.Value.ToString(), out _))
+                {
+                    table.Add(item);
 
-                SkipWhitespace(text, ref pos);
-                if (pos == text.Length)
-                    throw new InvalidDataException("Incomplete table encountered");
+                    // Add a comma after the line number
+                    if (pos < text.Length && text[pos] == ',')
+                        pos++;
+                }
+                else
+                {
+                    table.Add(item);
 
-                if (text[pos] == ',')
-                    pos++;
+                    SkipWhitespace(text, ref pos);
+                    if (pos == text.Length)
+                        throw new InvalidDataException("Incomplete table encountered");
+
+                    if (text[pos] == ',')
+                        pos++;
+                }
             }
             return table;
         }

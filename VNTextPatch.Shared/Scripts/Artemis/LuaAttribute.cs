@@ -34,7 +34,9 @@ namespace VNTextPatch.Shared.Scripts.Artemis
             if (char.IsDigit(Name[0]))
             {
                 result.Append('[');
+                result.Append('"');
                 result.Append(Name);
+                result.Append('"');
                 result.Append(']');
             }
             else
@@ -42,8 +44,9 @@ namespace VNTextPatch.Shared.Scripts.Artemis
                 result.Append(Name);
             }
 
-            result.Append(" = ");
+            result.Append("=");
             Value.ToString(result, indentLevel);
+
         }
     }
 }

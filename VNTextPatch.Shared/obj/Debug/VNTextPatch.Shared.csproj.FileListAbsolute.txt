@@ -1,0 +1,10 @@
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\FreeMote.LICENSE.txt
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\names.xml
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\template.xlsx
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\VNTextPatch.Shared.dll
+C:\Users\hungt\Downloads\VNTranslationTools\Build\Debug\VNTextPatch.Shared.pdb
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch.Shared\obj\Debug\VNTextPatch.Shared.csproj.AssemblyReference.cache
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch.Shared\obj\Debug\VNTextPatch.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch.Shared\obj\Debug\VNTextPatch.Shared.csproj.CopyComplete
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch.Shared\obj\Debug\VNTextPatch.Shared.dll
+C:\Users\hungt\Downloads\VNTranslationTools\VNTextPatch.Shared\obj\Debug\VNTextPatch.Shared.pdb
