@@ -29,6 +29,12 @@ A tool for extracting original text from, and patching translated text into, a v
 
 The tool can extract text into Excel workbooks (.xlsx) or JSON files (.json), and reinsert text from Excel, JSON, or Google Docs Spreadsheets. Working with .xlsx files does not require Microsoft Excel to be installed.
 
+## Installation
+```
+git clone --recursive https://github.com/hungtrieu07/VNTranslationTools
+```
+Open the folder with Visual Studio
+
 The command line syntax is as follows:
 
 ```
